@@ -1,0 +1,463 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+   
+}
+header{
+    background-image: url(./images/bg-img.jpg);
+    background-size: cover;
+}
+.header_h2{
+    padding: 20px;
+}
+.container{
+    max-width: 1400px;
+    min-height: 674px;
+    margin: auto;
+}
+.startup{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    gap: 600px;
+}
+.header_ul{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    width: 600px;
+    height: 30px;
+    justify-content: space-between;
+    margin-top: 20px;
+   
+}
+.header_ul_li_a{
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.85px;
+    color: white;
+    
+}
+.startap_h1{
+    font-family: Montserrat;
+    font-size: 41px;
+    font-weight: 700;
+    line-height: 49.98px;
+    color: #FFFFFF;
+
+    
+    
+}
+.startap_p1{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.5px;
+    color: #FFFFFF;
+    margin-top: 16px;
+    
+}
+.sitartap_buton{
+    width: 131px;
+    height: 37px;
+    top: 416px;
+    left: 649px;
+    background: transparent;
+    margin-top: 58px;
+    
+    
+}
+.your{
+    text-align: center;
+    margin-top: 272px;
+    gap: 20px;
+}
+
+
+.rok_h2{
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20.72px;
+    color: #555555;
+    text-align: center;
+    margin-top: 82px;
+    
+}
+.rok_p{
+    margin-top: 47px;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15.85px;
+    text-align: center;
+    color: #000000;
+    
+}
+.solid_p1{
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.63px;
+    color: #555555;
+    margin-top: 24px;
+    text-align: center;
+    
+}
+.solid_p2{
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #555555;
+    margin-top: 15px;
+    text-align: center;
+    
+}
+.solid_img{
+     margin-top: 24px;
+     padding-left: 110px
+     
+}
+.solid{
+    width: 300px;
+    height: 100px;
+    
+}
+.code{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 229px;
+    margin-left: 200px;
+}
+.About{
+    max-width: 1400px;
+    min-height: 745px;
+    background-color: #F8F8F8;
+    
+    
+    
+}
+.lorem_o{
+    text-align: center;
+}
+.lorem{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 54px;
+}
+.lorem_h2{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.94px;
+    text-align: center;
+    color: #555555;
+}
+.lorem___p{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    color: #555555;
+    margin-top: 46px;
+    
+}
+.lorem__p{
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #555555;
+    margin-left: 203px;
+    
+}
+.img___{
+   margin-left: 203px;
+
+    
+}
+.imig___img{
+    padding: 0px 26px;
+    padding-top: 54px;
+}
+.laset_ul{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    margin-left: 300px;
+    text-align: center;
+    margin-top: 43px;
+}
+.laset{
+    max-width: 1220px;
+    min-height: 100px;
+    text-align: center;
+}
+.laset_h2{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #555555;
+    text-align: center;
+    margin-top: 83px;
+    margin-left: 200px;
+    
+}
+.laset_kabutar{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+}
+.img_qismi{
+    max-width: 1200px;
+    min-height: 800px;
+    margin: auto;
+}
+.laset_a{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #555555;
+    
+}
+.laset_kabutar{
+    margin-top: 30px;
+}
+.touch_h2{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: center;
+    width: 379px;
+    height: 29px;
+    padding-top: 84px;
+    margin-left: 512px;
+   
+    
+    
+    
+}
+.TOUCH{
+    max-width: 1400px;
+    min-height: 324px;
+    margin-top: 84px;
+    background-image: url(./images/bac_img.png);
+    margin-top: 84;
+    
+}
+.touch__img{
+    color: #C1301D99 60%;
+}
+.touch_button{
+    width: 157px;
+    height: 44px;
+    margin-left: 621px;
+    background: transparent;
+    border: 2px 0px 0px 0px;
+    margin-top: 150px;
+    
+     
+}
+.more{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: -100px;
+}
+.__oct{
+    border: 01px solid black;
+}
+.text_p1{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    color: #C1301D;
+    
+}
+.text_2{
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 21px;
+    color: #786F6F;
+    
+}
+.text_p4{
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 14.63px;
+    color: #C1301D;
+    margin-top: 26px;
+    
+}
+.read_h2{
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20.72px;
+    color: #555555;
+    
+}
+.maliik{
+    max-width: 2400px;
+    min-height: 416px;
+    background-color: #F8F8F8;
+    margin-top: -97px;
+    
+}
+.rerum_p{
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: center;
+    color: #555555;
+    padding-top: 70px;
+    
+}
+.rerum{
+    text-align: center;
+    padding-top: 99px;
+}
+.rerum_p2{
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}
+.lagatip_img{
+    padding-left: 30px;
+}
+.getin{
+    max-width: 1220px;
+    min-height: 800px;
+    margin: auto;
+    margin-top: 86px;
+}
+.getin_h2{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.44px;
+    text-align: center;
+    color: #786F6F;
+    
+}
+.getin_p1{
+    font-family: Montserrat;
+    font-size: 13.2px;
+    font-weight: 400;
+    line-height: 16.09px;
+    text-align: center;
+    padding-top: 45px;
+    color: #786F6F;
+    
+    
+}
+.getin_adrees{
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 15px;
+    color: #786F6F;
+    padding-left: 228px;
+    padding-top: 31px;
+    
+}
+.getin_adres{
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 15px;
+    color: #786F6F;
+    padding-left: 228px;
+    padding-top: 13px;
+    
+}
+.input_1{
+    border: none;
+    border: 2px solid red;
+    padding: 13px 0px 13px 30px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.06px;
+    color: #786F6F;
+    
+}
+.inputlar{
+    padding-left: 557px;
+}
+.inputlar_2{
+    display: flex;
+}
+.disendeb{
+    max-width: 100%;
+    height: 269px;
+    top: 5397px;
+    background-color: #C1301D;
+    margin-top: 90px;
+    
+    
+}
+.disendeb{
+    text-align: center;
+   
+}
+.disendeb__img{
+    width: 30px;
+    border: 2px solid #C4C4C400;
+    margin-top: 87px;
+}
+.disbend_p{
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 12.89px;
+    padding-top: 51px;
+    color: white;
+    
+}
+@media screen and (max-width:800px) {
+    .more{
+        grid-template-columns: auto auto;
+    }
+    .code{
+        grid-template-columns: auto auto;
+    }
+    .container{
+        grid-template-columns: auto auto;
+    }
+    .solid{
+        grid-template-columns: auto auto;
+    }
+}
+@media screen and (max-width:500px) {
+    .more{
+        grid-template-columns: auto;
+    }
+    .code{
+        grid-template-columns: auto;
+    }
+    .container{
+        grid-template-columns: auto;
+    }
+    .solid{
+        grid-template-columns: auto;
+    }
+    .laset_kabutar{
+        grid-template-columns: auto;
+    }
+}
